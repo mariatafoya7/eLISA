@@ -1,0 +1,36 @@
+The Readme
+1. THe Readme file is the first file visible on the Github website and both the title and authors names are included.
+2. The purpose of the program is clearly stated in the introduction. eLISA is designed to scan an eDNA analysis file and search through and Invasive Species Database, returning 
+data information on an identified species.
+3. There is a program workflow that includes images which is very helpful in understaning how the program works. The program contains a python script that is used to sort through 
+the eDNA data file and an R script that will search the Invasive Species Dataset for an invasive species. The scripts are concatenated into a bash script that is run in Hoffman2.
+4. The dependencies are indicated in the workflow and Hoffman2 requirements are indicated.
+5. There are instructions for running the program. They are short and straight to the point which makes it easy to understand.
+6. The Github page has a vignette folder that contains examples of outputs produced by eLISA.
+7. The R package used was cited as well as Python and R.
+
+The Scripts
+8. There is a directory that contains the programs scripts.
+9. N/A
+
+The Vignette
+10. There is a folder call vignette that includes intructions on how to run the program, example data set and example outputs.
+11. I was able to run the vignette with no problems; hoever it did take a while for the R package to load but that was indicated by the authors.
+12. I reproduced the exact output that was displayed in the Github website.
+
+General
+13. The program is great! Very well designed. However, the introduction is quite lengthy and overwhelming, perhabs making it shorter would be more inviting. Also maybe making the 
+images a bit smaller, they are somewhat overpowering and take away from the rest of the great work!
+
+
+
+
+
+
+
+
+
+
+
+
+
